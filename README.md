@@ -608,7 +608,7 @@
 
   </details>
 
-### 优雅使用序号
+### 中英文序号使用
 
 <details open>
   <summary>正确</summary>
@@ -616,6 +616,7 @@
   <br>
 
   > 1、中文表达下优雅使用序号
+> 
 > 2.How to use serial numbers in English expressions 
 
   </details>
@@ -627,7 +628,31 @@
 
   > 1。中文表达下优雅使用序号
 
-  > 2-How to use serial numbers in English expressions
+ >2-How to use serial numbers in English expressions
+
+  </details>
+
+  ### 并列内容的表达
+
+<details open>
+  <summary>正确</summary>
+
+  <br>
+
+  > 你、我及他
+
+ >A、B and C 
+
+  </details>
+
+  <details open>
+  <summary>错误</summary>
+
+  <br>
+
+  > 你、我、他
+
+ > A、B、C
 
   </details>
 
@@ -693,7 +718,6 @@
 | WEN  | When | 什么时候。 |
 | WL   | Whitelist | 白名单。 |
 | WTF  | What The Fuck | 常用来表示震惊、困惑、不满或者惊讶的情感。 |
-
 
 ### 补充常见专有名词
 | 序号 | 专有名词  | 序号 | 专有名词  | 序号 | 专有名词  | 序号 | 专有名词  |
