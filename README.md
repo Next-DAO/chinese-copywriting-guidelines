@@ -668,7 +668,7 @@
 | To The Moon |  | 暴涨。 |
 | WEN  | When | 什么时候。 |
 | WL   | Whitelist | 白名单。 |
-| WTF  | What The Fuck | 常用来表示震惊、困惑、不满或者惊讶的情感。 |
+| WTF  | What the Fuck | 常用来表示震惊、困惑、不满或者惊讶的情感。 |
 
 
 ### 补充常见专有名词
