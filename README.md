@@ -608,6 +608,30 @@
 
   </details>
 
+### 优雅使用序号
+
+<details open>
+  <summary>正确</summary>
+
+  <br>
+
+  > 1、中文表达下优雅使用序号
+  > 2.How to use serial numbers in English expressions 
+
+  </details>
+
+  <details open>
+  <summary>错误</summary>
+
+  <br>
+
+  > 1。中文表达下优雅使用序号
+
+  > 2-How to use serial numbers in English expressions
+
+  </details>
+
+
 ***
 
 ## 5. 附
@@ -683,5 +707,5 @@
 | 25  | Gmail     | 26  | Huawei    | 27  | Kindle    | 28  | Adobe     |
 | 29  | Nintendo  | 30  | Reddit    | 31  | GitHub    | 32  | Web3      |
 | 33  | PS5       | 34  | OKX       | 35  | Coinbase  | 36  | Ordinals  |
-| 37  | UniSat    |     |           |     |           |     |           |
+| 37  | UniSat    | 35  | Web 3.0   |     |           |     |           |
 
