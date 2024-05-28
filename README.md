@@ -616,7 +616,7 @@
   <br>
 
   > 1、中文表达下优雅使用序号
-  > 2.How to use serial numbers in English expressions 
+> 2.How to use serial numbers in English expressions 
 
   </details>
 
