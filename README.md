@@ -659,16 +659,16 @@
 | Noob |  | 菜鸡。 |
 | NGL  | Not Gonna Lie | 老实说。 |
 | OG   | Original Gangster | 元老。 |
-| OTC  | Over The Counter | 场外交易。 |
+| OTC  | Over-the-counter | 场外交易。 |
 | PFP  | Profile Picture | 个人头像。 |
 | PoS  | Proof of Stake | 权益证明，参与者通过持仓质押维护区块链网络正常运行。 |
 | PoW  | Proof of Work | 工作量证明，参与者通过花费计算能力和能量维护区块链网络正常运行。 |
 | RUG  | Rug-Pull | 撤摊子/跑路/归零。 |
 | TVL  | Total Value Locked | 协议中锁定的资金总价值。 |
-| To The Moon |  | 暴涨。 |
+| To the Moon |  | 暴涨。 |
 | WEN  | When | 什么时候。 |
 | WL   | Whitelist | 白名单。 |
-| WTF  | What The Fuck | 常用来表示震惊、困惑、不满或者惊讶的情感。 |
+| WTF  | What the Fuck | 常用来表示震惊、困惑、不满或者惊讶的情感。 |
 
 
 ### 补充常见专有名词
