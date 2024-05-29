@@ -354,7 +354,7 @@
   </details>
 
 ### 保持礼貌，避免使用有攻击性或侮辱性的 Emoji
-有攻击性或侮辱性的 Emoij：💩（大便）🖕（F*ck） 🤡（小丑） 🍆（茄子） 🍑（桃子）
+有攻击性或侮辱性的 Emoji：💩（大便）🖕（F*ck） 🤡（小丑） 🍆（茄子） 🍑（桃子）
 
   <details open>
   <summary>正确</summary>
