@@ -571,7 +571,7 @@
 | GAS  |  | 燃料，表示在区块链完成交易所需的计算工作量。 |
 | GM   | Good Morning | 早安。 |
 | GN   | Good Night | 晚安。 |
-| HODL | Hold On Dear Love | 钻石手，长期持有。 |
+| HODL | Hold On for Dear Life | 钻石手，长期持有。 |
 | ICO  | Initial Coin Offering | 首次代币发行。 |
 | IFO  | Initial Farm Offering | 首次农场（质押）发行。 |
 | IEO  | Initial Exchange Offering | 首次交易所发行（比如在币安交易所发行）。 |
